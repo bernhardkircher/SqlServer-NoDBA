@@ -3,10 +3,20 @@
 This repository contains scripts,links,.. on how to handle/monitor/maintain/troubleshoot an MS SQLServer as a software developer and you don't have a fulltime DBA.
 
 # Where to begin
+Start here: https://www.brentozar.com/first-aid/sql-server-downloads/
 http://www.brentozar.com/sql/developers-guide-faking-database-administration/
 
-# Start-Troubleshooting
+# Get an overview
 Sites/Queries that help to get an overview of the current system
+
+https://www.brentozar.com/blitz/
+sp_Blitz gives you a summary of your system and additional links.
+
+# Troubleshooting
+
+## Sql Server is slow
+https://www.brentozar.com/askbrent/
+
 
 ## who-is-active
 http://sqlblog.com/blogs/adam_machanic/archive/2012/03/22/released-who-is-active-v11-11.aspx
@@ -46,5 +56,16 @@ http://getglimpse.com/
 http://miniprofiler.com/
 - 
 
+
+# Maintainance
+
+## Index Maintainance
+https://www.brentozar.com/blitzindex/
+https://ola.hallengren.com/sql-server-index-and-statistics-maintenance.html
+
+# Performance
+sp_BlitzCache https://www.brentozar.com/blitzcache/
+
 # Temp DB:
 http://www.brentozar.com/blitz/tempdb-data-files/
+
